@@ -1,0 +1,7 @@
+ST-link debug
+PA0 - ADC
+PA1 - CS
+PA2 - DC
+PA3 - RST
+PA5 - MOSI
+PA7 - SCL
